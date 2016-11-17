@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyProgressBar">
+        <attr name="FirstProgressColor" format="color" />
+        <attr name="SecondaryProgressColor" format="color" />
+        <attr name="NumberTextSize" format="dimension" />
+        <attr name="Max" format="integer"/>
+        <attr name="Progress" format="integer"/>
+        <attr name="SecondaryProgress" format="integer"/>
+    </declare-styleable>
+
+</resources>
